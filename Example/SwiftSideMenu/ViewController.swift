@@ -22,7 +22,7 @@ class ViewController: UIViewController, ENSideMenuDelegate {
     }
     
 
-    @IBAction func toggleSideMenu(sender: AnyObject) {
+    @IBAction func toggleSideMenu(_ sender: AnyObject) {
         toggleSideMenuView()
     }
     
